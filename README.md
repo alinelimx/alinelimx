@@ -1,5 +1,4 @@
-## Hi there 👋
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single&pause=1000&color=932CF7&width=435&lines=ol%C3%A1%2C+eu+sou+a+aline+%3A);analista+e+cientista+de+dados" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single&pause=1000&color=932CF7&width=435&lines=ol%C3%A1%2C+eu+sou+a+aline+%3A);graduanda+em+ci%C3%AAncia+da+computa%C3%A7%C3%A3o;estudante+de+an%C3%A1lise+e+ci%C3%AAncia+de+dados" alt="Typing SVG" /></a>
 <!--
 **alinelimx/alinelimx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
