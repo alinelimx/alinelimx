@@ -16,7 +16,7 @@
 
 ### 🤖 Linguagens e Ferramentas
 
-[![Skills](https://skillicons.dev/icons?i=python,mysql,postgres,html,css,git,figma,github,vscode)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,sql,mysql,postgres,html,css,git,figma,github,vscode)](https://skillicons.dev)
 
 
 ### 📊 Estatísticas
