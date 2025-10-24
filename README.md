@@ -5,7 +5,6 @@
 
 - 💡 Principais interesses: Análise e Ciência de Dados, Python, SQL, Business Intelligence (BI) e UI/UX Design
 
----
 ### 📌 Sobre mim
 - Sou uma estudante dedicada e curiosa, com foco extrair valor dos dados e criar soluções que melhorem a experiência das pessoas.
 
@@ -14,13 +13,11 @@
 ### 📌 Minhas atividades recentes
 - 💻 Atualmente estou aprofundando meus estudos em dados cursando o Bootcamp de Business Intelligence pela WoMakersCode + Instituto Localiza ([BI WoMakersCode](https://womakerscode.org/bi-instituto-localiza/))  
 
----
 
 ### 🤖 Linguagens e Ferramentas
 
 [![Skills](https://skillicons.dev/icons?i=python,mysql,postgres,html,css,git,figma,github,vscode)](https://skillicons.dev)
 
----
 
 ### 📊 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alinelimx&show_icons=true&theme=dark)
