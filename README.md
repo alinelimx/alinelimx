@@ -18,9 +18,10 @@
 
 [![Skills](https://skillicons.dev/icons?i=python,mysql,postgres,html,css,git,figma,github,vscode)](https://skillicons.dev)
 
+<!-- 
 ### 📊 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alinelimx&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinelimx&layout=compact&theme=dark)
 
-<!-- 
+
 
