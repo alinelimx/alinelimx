@@ -16,7 +16,7 @@
 
 ### 🤖 Linguagens e Ferramentas
 
-[![Skills](https://skillicons.dev/icons?i=python,mysql,postgres,html,css,git,figma,github,vscode)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,mysql,postgres,html,css,git,figma,github,vscode)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" /> ![Tech Stack](https://skillicons.dev/icons?i=sqlite&theme=light&perline=15) 
 
 <!-- 
 ### 📊 Estatísticas
