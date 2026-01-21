@@ -11,8 +11,8 @@
 - Participo de projetos acadêmicos que incentivam a participação de mulheres na tecnologia, como o Meninas Digitais do Vale que faz parte do Laboratório de Pesquisa e Desenvolvimento para Usabilidade, Diversidade e Inclusão (LUDI). 
 
 ### 📌 Minhas atividades recentes
-- 💻 Atualmente estou aprofundando meus estudos em dados cursando o Bootcamp de Business Intelligence pela WoMakersCode + Instituto Localiza ([BI WoMakersCode](https://womakerscode.org/bi-instituto-localiza/))  
-- 💻 Participando como cientista de dados na startup de tecnologia Jus Brasil, uma iniciativa criada na Univeridade Federal do Ceará.
+- Atualmente estou aprofundando meus estudos em dados cursando o Bootcamp de Business Intelligence pela WoMakersCode + Instituto Localiza ([BI WoMakersCode](https://womakerscode.org/bi-instituto-localiza/))  
+- Participando como cientista de dados na startup de tecnologia ([Jus Digital](https://jusdigital.app)), uma iniciativa criada na Univeridade Federal do Ceará.
 
 
 ### 🤖 Linguagens e Ferramentas
