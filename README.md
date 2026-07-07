@@ -10,7 +10,7 @@
 
 - Participei de projetos acadêmicos que incentivam a participação de mulheres na tecnologia, como o Meninas Digitais do Vale que faz parte do Laboratório de Pesquisa e Desenvolvimento para Usabilidade, Diversidade e Inclusão (LUDI). 
 
-- Atualmente participo de projetos e pesquisas acadêmicas voltadas a análise e ciência de dados, principalmente no contexto da agricultura, pelo Laboratório de Tecnologias Inovadoras (LTI).
+- Participei também de projetos e pesquisas acadêmicas voltadas a análise e ciência de dados, principalmente no contexto da agricultura, pelo Laboratório de Tecnologias Inovadoras (LTI).
 
 ### 📌 Minhas atividades recentes
 - Aprofundei meus estudos em dados cursando o Bootcamp de Business Intelligence pela WoMakersCode + Instituto Localiza ([BI WoMakersCode](https://womakerscode.org/bi-instituto-localiza/))  
