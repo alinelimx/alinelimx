@@ -13,8 +13,8 @@
 - Participei também de projetos e pesquisas acadêmicas voltadas a análise e ciência de dados, principalmente no contexto da agricultura, pelo Laboratório de Tecnologias Inovadoras (LTI).
 
 ### 📌 Minhas atividades recentes
-- Atualmente estou participando do Bootcamp de Ciência de Dados promovido pelo Instituto Atlântico Avanti [Ciência de Dados] (https://lp.atlanticoavanti.com.br/bootcamp/)
-- Aprofundei meus estudos em dados cursando o Bootcamp de Business Intelligence pela WoMakersCode + Instituto Localiza ([BI WoMakersCode](https://womakerscode.org/bi-instituto-localiza/))  
+- Atualmente estou participando do Bootcamp de Ciência de Dados promovido pelo Instituto Atlântico Avanti ([Ciência de Dados](https://lp.atlanticoavanti.com.br/bootcamp/)
+- - Aprofundei meus estudos em dados cursando o Bootcamp de Business Intelligence pela WoMakersCode + Instituto Localiza ([BI WoMakersCode](https://womakerscode.org/bi-instituto-localiza/)) 
 - Participei como cientista de dados na startup de tecnologia [Jus Digital](https://jusdigital.app), uma iniciativa criada na Univeridade Federal do Ceará.
 
 
